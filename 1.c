@@ -10,6 +10,5 @@ int main()
         printf("Zero"); 
     else
 	printf("Invaild Input");
-  
     return 0; 
 }
